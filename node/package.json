@@ -1,0 +1,30 @@
+{
+  "name": "graphics-node",
+  "version": "0.0.0",
+  "description": "This is JavaScript codes on NodeJS environment.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/across0406/Graphics.git"
+  },
+  "keywords": [
+    "three.js",
+    "graphics",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Dong Hyeon Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/across0406/Graphics/issues"
+  },
+  "homepage": "https://github.com/across0406/Graphics#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "three": "^0.130.1"
+  }
+}
